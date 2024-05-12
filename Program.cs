@@ -227,7 +227,7 @@ namespace w19_Assignment_HangMan
             Console.ForegroundColor = ConsoleColor.Gray;        // Set back to default
         }
 
-        // -------------------------------- //
+// -------------------------------- //
 
         static bool EndGame()
         {
