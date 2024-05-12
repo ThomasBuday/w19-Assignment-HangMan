@@ -71,7 +71,7 @@ namespace w19_Assignment_HangMan
                 
                 board = BoardFiller(charsOfWord, board, playersChoice); //- First run to fill with "_"
             
-                Console.WriteLine(word); /////!!!!!!!!!!!!!!!
+                //Console.WriteLine(word); /////!!!!!!!!!!!!!!!
                 
                 while (!win && !gameOver)                           // The game begins 
                 {
